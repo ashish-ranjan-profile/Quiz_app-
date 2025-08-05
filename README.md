@@ -2,7 +2,11 @@
 
 A sleek and interactive **Quiz Application** built using **React Native**, designed to deliver a smooth quiz-taking experience on mobile devices. This app features question-by-question navigation, a countdown timer, dynamic UI updates, and result analysis upon submission.
 
----
+---##Download Quiz App in apk file 
+
+🔗 [Click here to download the APK](https://drive.google.com/file/d/1GV5qD9AnRyLGzOcG2HxO9Lq2hCrzjzBK/view?usp=drive_link)
+
+(Note: Enable “Install from Unknown Sources” on your device to install.)
 
 ## 🚀 Features
 
@@ -34,11 +38,11 @@ A sleek and interactive **Quiz Application** built using **React Native**, desig
 ### ✅ Dashboard Screen
 ![Result Screen](./Dashboard.jpeg)
 
-### ❓ Question Screen
-![Question Screen](./Quiz.jpeg)
-
 ### ✅ Guidlines Screen
 ![Result Screen](./Guidlines.jpeg)
+
+### ❓ Question Screen
+![Question Screen](./Quiz.jpeg)
 
 ### ✅ Result Screen
 ![Result Screen](./Result.jpeg)
