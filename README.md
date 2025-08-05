@@ -26,6 +26,24 @@ A sleek and interactive **Quiz Application** built using **React Native**, desig
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/Home.jpeg)
+
+### ✅ Dashboard Screen
+![Result Screen](assets/Dashboard.jpeg)
+
+### ❓ Question Screen
+![Question Screen](assets/Quiz.jpeg)
+
+### ✅ Guidlines Screen
+![Result Screen](assets/Guidlines.jpeg)
+
+### ✅ Result Screen
+![Result Screen](assets/Result.jpeg)
+
+
 ## 🔧 Installation
 
 ```bash
