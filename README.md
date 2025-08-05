@@ -29,19 +29,19 @@ A sleek and interactive **Quiz Application** built using **React Native**, desig
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/Home.jpeg)
+![Home Screen](./Home.jpeg)
 
 ### ✅ Dashboard Screen
-![Result Screen](assets/Dashboard.jpeg)
+![Result Screen](./Dashboard.jpeg)
 
 ### ❓ Question Screen
-![Question Screen](assets/Quiz.jpeg)
+![Question Screen](./Quiz.jpeg)
 
 ### ✅ Guidlines Screen
-![Result Screen](assets/Guidlines.jpeg)
+![Result Screen](./Guidlines.jpeg)
 
 ### ✅ Result Screen
-![Result Screen](assets/Result.jpeg)
+![Result Screen](./Result.jpeg)
 
 
 ## 🔧 Installation
